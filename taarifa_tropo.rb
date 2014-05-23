@@ -64,5 +64,5 @@ end
 # This next part was just for demo 
 
 # message "New report from:" + myCallerID + " WaterPoint ID: " + wpid + " Status: "+ wpstatus, {
-    :to => "+14077586356",  
+    :to => "+12155555555",  
     :network => 'SMS'}
