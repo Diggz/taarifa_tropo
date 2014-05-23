@@ -13,7 +13,7 @@ say "Thank you for calling the water point reporting system."
 
 
 # Question 1
-ask "Please enter the 5 digit water point identification number. Press pound when finished.", 
+ask "Please enter the 5 digit water point identification number.", 
 {
     :choices => "[5 DIGITS]",
     :terminator => '#',
